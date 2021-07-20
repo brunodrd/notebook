@@ -7,6 +7,9 @@ nav:
     - "Home": index.md
     - "Seq.1": sequence1.md
     - "Seq.2": sequence2.md
+    - "NSI1":
+        - "Seq.3":
+            - ACTIVITE 1: NSI1/S3/S3A1.md
 
 theme:
     name: material
@@ -68,7 +71,7 @@ markdown_extensions:
         generic: true
     - toc:
         permalink: ⚓︎
-        toc_depth: 2
+        toc_depth: 3
 
 plugins:
   - search
