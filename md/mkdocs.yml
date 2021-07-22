@@ -4,12 +4,16 @@ copyright: "CC-BY-NC-SA 4.0"
 docs_dir: docs
 
 nav:
-    - "Home": index.md
-    - "Seq.1": sequence1.md
-    - "Seq.2": sequence2.md
+    - "Home": index.md    
     - "NSI1":
+        - "Seq. 1": NSI1/S1/sequence1.md
+        - "Seq.2": NSI1/S2/sequence2.md
         - "Seq.3":
-            - ACTIVITE 1: NSI1/S3/S3A1.md
+            - "ACTIVITE 1": NSI1/S3/S3A1.md
+            - "COURS 1": NSI1/S3/S3C1.md
+            - "TP 1": NSI1/S3/TP1S3.md
+            - "Annexe TP1": NSI1/S3/Annexe_TP.md
+            - "Exercices E1": NSI1/S3/S3E1.md
 
 theme:
     name: material
@@ -71,7 +75,7 @@ markdown_extensions:
         generic: true
     - toc:
         permalink: ⚓︎
-        toc_depth: 3
+        toc_depth: 1
 
 plugins:
   - search
