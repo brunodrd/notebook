@@ -46,7 +46,7 @@ On constate que le résultat est:
 On se propose d'écrire ici notre propre fonction de conversion en python, en suivant l'algorithme écrit en pseudo-code ci-après.  
 
 <figure>
-<img alt="algobinaire" src="../img/dec2bin.png" width="85%">
+<img alt="algobinaire" src="img/dec2bin.png" width="72%">
 </figure>
 
 Dans cet algorithme, l'affectation est notée $\leftarrow$ (flêche gauche) et la chaine de caractères vide `""`.  

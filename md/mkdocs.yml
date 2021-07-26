@@ -10,11 +10,15 @@ nav:
         - "Seq.2": NSI1/S2/sequence2.md
         - "Seq.3":
             - "ACTIVITE 1": NSI1/S3/S3A1.md
+            - "ACTIVITE 2": NSI1/S3/S3A2.md
             - "COURS 1": NSI1/S3/S3C1.md
             - "COURS 2": NSI1/S3/S3C2.md
+            - "COURS 3": NSI1/S3/S3C3.md
             - "TP 1": NSI1/S3/TP1S3.md
             - "Annexe TP1": NSI1/S3/Annexe_TP.md
             - "EXERCICES E1": NSI1/S3/S3E1.md
+            - "EXERCICES E2": NSI1/S3/doc/Exercices_codage_nombre.pdf
+            - "En Résumé": NSI1/S3/S3R1.md
             
     - "NSITerm":
         - "Chap. 1": NSITerm/LP2/Recursivite.md

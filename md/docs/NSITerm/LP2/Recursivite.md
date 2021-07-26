@@ -193,7 +193,7 @@ Les résultats sont consignés dans le tableau ci-dessous:
 On constate que la complexité explose rapidement. Essayons de comprendre pourquoi en examinant une partie de l'arbre d'appels de `fib(5)` par exemple.  
 
 <figure>
-    <img alt="fibo" src="../img/fib5.png" width="80%">  
+    <img alt="fibo" src="img/fib5.png" width="80%">  
 </figure>
 
 Des calculs déjà effectués lors de l'appel de `fib(4)` sont à nouveau effectués lors de l'appel de `fib(3)` !!  
