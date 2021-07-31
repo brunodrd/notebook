@@ -21,7 +21,13 @@ nav:
             - "En Résumé": NSI1/S3/S3R1.md
             
     - "NSITerm":
-        - "Chap. 1": NSITerm/LP2/Recursivite.md
+        - "Chap. 1 - Cours": NSITerm/LP2/Recursivite.md
+        - "Chap. 1 - Exercices": NSITerm/LP2/C1E1.md
+        - "Chap. 2 - Cours": NSITerm/SD/C2C1.md
+        - "Chap. 2 - Exercices": NSITerm/SD/C2E1.md
+        - "Chap. 3 - Cours": NSITerm/SD/C3C1.md
+        - "Chap. 3 - Exercices 1": NSITerm/SD/C3E1.md
+        - "Chap. 3 - Exercices 2": NSITerm/SD/C3E2.md
 
 theme:
     name: material
@@ -88,6 +94,7 @@ markdown_extensions:
 plugins:
   - search
   - macros
+  
 
 extra_javascript:
   - javascripts/config.js
