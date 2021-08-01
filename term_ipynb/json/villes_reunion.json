@@ -1,0 +1,623 @@
+[
+    {
+        "coord": {
+            "lat": -21.1,
+            "lon": 55.299999
+        },
+        "country": "RE",
+        "id": 935146,
+        "name": "Les Trois-Bassins"
+    },
+    {
+        "coord": {
+            "lat": -21.02734,
+            "lon": 55.539001
+        },
+        "country": "RE",
+        "id": 935210,
+        "name": "Salazie"
+    },
+    {
+        "coord": {
+            "lat": -21.25,
+            "lon": 55.583328
+        },
+        "country": "RE",
+        "id": 935213,
+        "name": "Arrondissement de Saint-Pierre"
+    },
+    {
+        "coord": {
+            "lat": -21.3393,
+            "lon": 55.478111
+        },
+        "country": "RE",
+        "id": 935214,
+        "name": "Saint-Pierre"
+    },
+    {
+        "coord": {
+            "lat": -21.358521,
+            "lon": 55.767948
+        },
+        "country": "RE",
+        "id": 935215,
+        "name": "Saint-Philippe"
+    },
+    {
+        "coord": {
+            "lat": -21.08333,
+            "lon": 55.333328
+        },
+        "country": "RE",
+        "id": 935220,
+        "name": "Arrondissement de Saint-Paul"
+    },
+    {
+        "coord": {
+            "lat": -21.00963,
+            "lon": 55.27071
+        },
+        "country": "RE",
+        "id": 935221,
+        "name": "Saint-Paul"
+    },
+    {
+        "coord": {
+            "lat": -21.285851,
+            "lon": 55.41124
+        },
+        "country": "RE",
+        "id": 935223,
+        "name": "Saint-Louis"
+    },
+    {
+        "coord": {
+            "lat": -21.170589,
+            "lon": 55.288239
+        },
+        "country": "RE",
+        "id": 935225,
+        "name": "Saint-Leu"
+    },
+    {
+        "coord": {
+            "lat": -21.37838,
+            "lon": 55.619179
+        },
+        "country": "RE",
+        "id": 935227,
+        "name": "Saint-Joseph"
+    },
+    {
+        "coord": {
+            "lat": -21.067221,
+            "lon": 55.734749
+        },
+        "country": "RE",
+        "id": 935239,
+        "name": "Saint-François"
+    },
+    {
+        "coord": {
+            "lat": -20.906139,
+            "lon": 55.60886
+        },
+        "country": "RE",
+        "id": 935248,
+        "name": "Sainte-Suzanne"
+    },
+    {
+        "coord": {
+            "lat": -21.129829,
+            "lon": 55.796291
+        },
+        "country": "RE",
+        "id": 935251,
+        "name": "Sainte-Rose"
+    },
+    {
+        "coord": {
+            "lat": -20.896839,
+            "lon": 55.549599
+        },
+        "country": "RE",
+        "id": 935255,
+        "name": "Sainte-Marie"
+    },
+    {
+        "coord": {
+            "lat": -20.891609,
+            "lon": 55.478722
+        },
+        "country": "RE",
+        "id": 935257,
+        "name": "Sainte-Clotilde"
+    },
+    {
+        "coord": {
+            "lat": -20.91667,
+            "lon": 55.5
+        },
+        "country": "RE",
+        "id": 935263,
+        "name": "Arrondissement de Saint-Denis"
+    },
+    {
+        "coord": {
+            "lat": -20.882311,
+            "lon": 55.450401
+        },
+        "country": "RE",
+        "id": 935264,
+        "name": "Saint-Denis"
+    },
+    {
+        "coord": {
+            "lat": -21.08333,
+            "lon": 55.666672
+        },
+        "country": "RE",
+        "id": 935266,
+        "name": "Arrondissement de Saint-Benoît"
+    },
+    {
+        "coord": {
+            "lat": -21.03801,
+            "lon": 55.719372
+        },
+        "country": "RE",
+        "id": 935267,
+        "name": "Saint-Benoît"
+    },
+    {
+        "coord": {
+            "lat": -20.963329,
+            "lon": 55.650311
+        },
+        "country": "RE",
+        "id": 935268,
+        "name": "Saint-André"
+    },
+    {
+        "coord": {
+            "lat": -20.974859,
+            "lon": 55.68718
+        },
+        "country": "RE",
+        "id": 935300,
+        "name": "Rivière du Mât les Bas"
+    },
+    {
+        "coord": {
+            "lat": -21.1,
+            "lon": 55.599998
+        },
+        "country": "RE",
+        "id": 935317,
+        "name": "Reunion"
+    },
+    {
+        "coord": {
+            "lat": -21.35,
+            "lon": 55.566669
+        },
+        "country": "RE",
+        "id": 935335,
+        "name": "Ravine du Pont-les Bas"
+    },
+    {
+        "coord": {
+            "lat": -20.950001,
+            "lon": 55.333328
+        },
+        "country": "RE",
+        "id": 935355,
+        "name": "Ravine à Marquet"
+    },
+    {
+        "coord": {
+            "lat": -21.35,
+            "lon": 55.566669
+        },
+        "country": "RE",
+        "id": 935416,
+        "name": "Petite-Île"
+    },
+    {
+        "coord": {
+            "lat": -20.940331,
+            "lon": 55.648361
+        },
+        "country": "RE",
+        "id": 935419,
+        "name": "Petit Bazar"
+    },
+    {
+        "coord": {
+            "lat": -20.8885,
+            "lon": 55.51844
+        },
+        "country": "RE",
+        "id": 935511,
+        "name": "Marepine"
+    },
+    {
+        "coord": {
+            "lat": -21.02607,
+            "lon": 55.50972
+        },
+        "country": "RE",
+        "id": 935520,
+        "name": "Mare à Vieille Place"
+    },
+    {
+        "coord": {
+            "lat": -21.200001,
+            "lon": 55.433331
+        },
+        "country": "RE",
+        "id": 935542,
+        "name": "Les Makes"
+    },
+    {
+        "coord": {
+            "lat": -21.283091,
+            "lon": 55.518021
+        },
+        "country": "RE",
+        "id": 935582,
+        "name": "Le Tampon"
+    },
+    {
+        "coord": {
+            "lat": -20.866671,
+            "lon": 55.466671
+        },
+        "country": "RE",
+        "id": 935605,
+        "name": "Les Camélias"
+    },
+    {
+        "coord": {
+            "lat": -21.24181,
+            "lon": 55.339378
+        },
+        "country": "RE",
+        "id": 935608,
+        "name": "Les Avirons"
+    },
+    {
+        "coord": {
+            "lat": -21.02186,
+            "lon": 55.536221
+        },
+        "country": "RE",
+        "id": 935612,
+        "name": "Les Ramiers"
+    },
+    {
+        "coord": {
+            "lat": -21.250589,
+            "lon": 55.521118
+        },
+        "country": "RE",
+        "id": 935613,
+        "name": "Le Quatorzième"
+    },
+    {
+        "coord": {
+            "lat": -20.9373,
+            "lon": 55.291889
+        },
+        "country": "RE",
+        "id": 935616,
+        "name": "Le Port"
+    },
+    {
+        "coord": {
+            "lat": -21.23333,
+            "lon": 55.333328
+        },
+        "country": "RE",
+        "id": 935643,
+        "name": "Fond Maurice"
+    },
+    {
+        "coord": {
+            "lat": -21.037001,
+            "lon": 55.72047
+        },
+        "country": "RE",
+        "id": 935661,
+        "name": "Le Butor"
+    },
+    {
+        "coord": {
+            "lat": -20.928921,
+            "lon": 55.335129
+        },
+        "country": "RE",
+        "id": 935691,
+        "name": "La Possession"
+    },
+    {
+        "coord": {
+            "lat": -21.116671,
+            "lon": 55.633331
+        },
+        "country": "RE",
+        "id": 935694,
+        "name": "La Plaine-des-Palmistes"
+    },
+    {
+        "coord": {
+            "lat": -21.224529,
+            "lon": 55.557331
+        },
+        "country": "RE",
+        "id": 935695,
+        "name": "La Plaine des Cafres"
+    },
+    {
+        "coord": {
+            "lat": -20.88081,
+            "lon": 55.440189
+        },
+        "country": "RE",
+        "id": 935697,
+        "name": "Petite Île"
+    },
+    {
+        "coord": {
+            "lat": -20.93228,
+            "lon": 55.29158
+        },
+        "country": "RE",
+        "id": 935737,
+        "name": "La Butte"
+    },
+    {
+        "coord": {
+            "lat": -21.35928,
+            "lon": 55.52557
+        },
+        "country": "RE",
+        "id": 935806,
+        "name": "Grands Bois"
+    },
+    {
+        "coord": {
+            "lat": -21.25,
+            "lon": 55.383331
+        },
+        "country": "RE",
+        "id": 935902,
+        "name": "L'Étang-Salé"
+    },
+    {
+        "coord": {
+            "lat": -21.23333,
+            "lon": 55.466671
+        },
+        "country": "RE",
+        "id": 935915,
+        "name": "Entre-Deux"
+    },
+    {
+        "coord": {
+            "lat": -20.981689,
+            "lon": 55.376881
+        },
+        "country": "RE",
+        "id": 935927,
+        "name": "Dos d'Âne"
+    },
+    {
+        "coord": {
+            "lat": -21.13357,
+            "lon": 55.471901
+        },
+        "country": "RE",
+        "id": 935975,
+        "name": "Cilaos"
+    },
+    {
+        "coord": {
+            "lat": -20.99667,
+            "lon": 55.67823
+        },
+        "country": "RE",
+        "id": 936048,
+        "name": "Bras-Panon"
+    },
+    {
+        "coord": {
+            "lat": -21.100439,
+            "lon": 55.602058
+        },
+        "country": "RE",
+        "id": 6690283,
+        "name": "Réunion"
+    },
+    {
+        "coord": {
+            "lat": -21.10084,
+            "lon": 55.603439
+        },
+        "country": "RE",
+        "id": 6690284,
+        "name": "Réunion"
+    },
+    {
+        "coord": {
+            "lat": -21.23333,
+            "lon": 55.466671
+        },
+        "country": "RE",
+        "id": 6690287,
+        "name": "Entre-Deux"
+    },
+    {
+        "coord": {
+            "lat": -21.25,
+            "lon": 55.383331
+        },
+        "country": "RE",
+        "id": 6690288,
+        "name": "L'Étang-Salé"
+    },
+    {
+        "coord": {
+            "lat": -21.116671,
+            "lon": 55.633331
+        },
+        "country": "RE",
+        "id": 6690290,
+        "name": "La Plaine-des-Palmistes"
+    },
+    {
+        "coord": {
+            "lat": -20.91667,
+            "lon": 55.333328
+        },
+        "country": "RE",
+        "id": 6690292,
+        "name": "La Possession"
+    },
+    {
+        "coord": {
+            "lat": -20.950001,
+            "lon": 55.650002
+        },
+        "country": "RE",
+        "id": 6690293,
+        "name": "Saint-André"
+    },
+    {
+        "coord": {
+            "lat": -21.033331,
+            "lon": 55.716671
+        },
+        "country": "RE",
+        "id": 6690294,
+        "name": "Saint-Benoît"
+    },
+    {
+        "coord": {
+            "lat": -20.866671,
+            "lon": 55.466671
+        },
+        "country": "RE",
+        "id": 6690295,
+        "name": "Saint-Denis"
+    },
+    {
+        "coord": {
+            "lat": -21.366671,
+            "lon": 55.616669
+        },
+        "country": "RE",
+        "id": 6690296,
+        "name": "Saint-Joseph"
+    },
+    {
+        "coord": {
+            "lat": -21.15,
+            "lon": 55.283329
+        },
+        "country": "RE",
+        "id": 6690297,
+        "name": "Saint-Leu"
+    },
+    {
+        "coord": {
+            "lat": -21.26667,
+            "lon": 55.416672
+        },
+        "country": "RE",
+        "id": 6690298,
+        "name": "Saint-Louis"
+    },
+    {
+        "coord": {
+            "lat": -21,
+            "lon": 55.26667
+        },
+        "country": "RE",
+        "id": 6690299,
+        "name": "Saint-Paul"
+    },
+    {
+        "coord": {
+            "lat": -21.316669,
+            "lon": 55.48333
+        },
+        "country": "RE",
+        "id": 6690300,
+        "name": "Saint-Pierre"
+    },
+    {
+        "coord": {
+            "lat": -21.35,
+            "lon": 55.76667
+        },
+        "country": "RE",
+        "id": 6690301,
+        "name": "Saint-Philippe"
+    },
+    {
+        "coord": {
+            "lat": -20.883329,
+            "lon": 55.549999
+        },
+        "country": "RE",
+        "id": 6690302,
+        "name": "Sainte-Marie"
+    },
+    {
+        "coord": {
+            "lat": -20.9,
+            "lon": 55.616669
+        },
+        "country": "RE",
+        "id": 6690304,
+        "name": "Sainte-Suzanne"
+    },
+    {
+        "coord": {
+            "lat": -21.26667,
+            "lon": 55.51667
+        },
+        "country": "RE",
+        "id": 6690306,
+        "name": "Le Tampon"
+    },
+    {
+        "coord": {
+            "lat": -21.1,
+            "lon": 55.299999
+        },
+        "country": "RE",
+        "id": 6690307,
+        "name": "Les Trois-Bassins"
+    },
+    {
+        "coord": {
+            "lat": -21.116671,
+            "lon": 55.466671
+        },
+        "country": "RE",
+        "id": 6690308,
+        "name": "Cilaos"
+    },
+    {
+        "coord": {
+            "lat": -21.21962,
+            "lon": 55.315128
+        },
+        "country": "RE",
+        "id": 7932385,
+        "name": "Piton Saint-Leu"
+    }
+]
