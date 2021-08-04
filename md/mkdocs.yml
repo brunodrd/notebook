@@ -34,6 +34,8 @@ nav:
         - "Chap. 4":
             - "Actvité 1": NSITerm/LP2/C4A1.md
             - "Actvité 2": NSITerm/LP2/C4A2.md
+        - "Chap. 5":
+            - "Cours": NSITerm/LP2/C5C1.md
 
 theme:
     name: material
