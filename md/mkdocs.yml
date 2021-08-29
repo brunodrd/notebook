@@ -34,6 +34,7 @@ nav:
         - "Chap. 1 Récursivité":
             - "Cours": NSITerm/LP2/Recursivite.md
             - "Exercices": NSITerm/LP2/C1E1.md
+            - "TD": NSITerm/LP2/C1TD1Ex.md
         - "Chap. 2 Prog. modulaire":
             - "Actvité 1": NSITerm/LP2/C4A1.md
             - "Actvité 2": NSITerm/LP2/C4A2.md

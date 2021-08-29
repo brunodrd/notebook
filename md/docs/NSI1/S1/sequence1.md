@@ -107,18 +107,18 @@ Adam écrit à présent cette fonction sans les indentations (version 1) et sur 
 
     ``` javascript
     function maximum(a, b) {
-		if (a < b) {
-			return a
-		} else {
-			return b
-		}
+	if (a > b) {
+	return a
+	} else {
+	return b
+	}
 	}
 	```
 
 === "Version 2"
 
     ``` javascript
-    function maximum(a,b){ if(a<b) { return a } else { return b } }
+    function maximum(a,b){ if(a>b) { return a } else { return b } }
     ```
 !!! question "Répondre aux questions"
     * Sachant que les deux écritures de la fonction `maximum()` sont correctes, 
