@@ -51,6 +51,11 @@ nav:
         - "Chap. 6 SDD2 Liste":
             - "Cours": NSITerm/SD/C6C1.md
             - "Exercices": NSITerm/SD/C6E1.md
+        - "Evaluations":            
+            - "EP1":
+                - "Sujet": NSITerm/eval/21_NSI_08_modif.pdf 
+                - "Corrigé": NSITerm/eval/NSI_21_sujet_8.md                               
+                - "Corrigé version pdf": NSITerm/eval/NSI_21_sujet_8.pdf
 
 theme:
     name: material
