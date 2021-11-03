@@ -2,7 +2,6 @@ site_name: NSI
 site_description: "Support de cours"
 copyright: "CC-BY-NC-SA 4.0"
 docs_dir: docs
-
 nav:
     - "Home": index.md    
     - "NSI1":
@@ -53,14 +52,34 @@ nav:
             - "Exercices": NSITerm/SD/C6E1.md
         - "Chap. 7 SDD3 Arbre":
             - "Cours 1": NSITerm/SD/C7C1.md
+            - "Cours 2": NSITerm/SD/C7C2.md
+            - "Cours 3": NSITerm/SD/C7C3.md
+            - "Exercices 1": NSITerm/SD/C7E1.md
+            - "Exercices 2": NSITerm/SD/C7E2.md
+        - "Chap. 8 BDD":
+            - "Activité de découverte": NSITerm/BDD/C8A1.md
         - "Evaluations":            
             - "EP1":
                 - "Sujet": NSITerm/eval/21_NSI_08_modif.pdf 
                 - "Corrigé": NSITerm/eval/NSI_21_sujet_8.md                               
                 - "Corrigé version pdf": NSITerm/eval/NSI_21_sujet_8.pdf
+            - "EP3":
+                - "Corrigé": NSITerm/eval/sujet_20.md
+    - "Physique":
+        - "Micro controleur": PC/ucontroleur.md
+        - "Connexions": PC/connexion.md
+        - "Mode de fonctionnement": PC/mode_fonctionnement.md
+        - "Hello World": PC/HelloWorld.md
+        - "Mise en oeuvre": PC/capteurs.md
+    - "Liens divers":
+        - "Videos": perso/videos.md
+        - "Textes": perso/textes.md
 
 theme:
     name: material
+    custom_dir: overrides
+    analytics:
+        gtag: G-FZSM0VGVC4
     font: false                     # RGPD ; pas de fonte Google
     language: fr                    # français
     palette:                        # Palettes de couleurs jour/nuit
@@ -93,6 +112,7 @@ markdown_extensions:
 
     - def_list                      # Les listes de définition.
     - attr_list                     # Un peu de CSS et des attributs HTML.
+    - md_in_html
     - footnotes                     # Notes[^1] de bas de page.  [^1]: ma note.
     - admonition                    # Blocs colorés  !!! info "ma remarque"
     - pymdownx.details              #   qui peuvent se plier/déplier.
@@ -128,6 +148,7 @@ plugins:
 
 extra_javascript:
   - javascripts/config.js
+  - javascripts/gtag.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
   - https://unpkg.com/mermaid@8.9.2/dist/mermaid.min.js
@@ -135,3 +156,9 @@ extra_javascript:
 
 extra_css:
   - stylesheets/extra.css
+
+extra:
+  analytics:
+    provider: google
+    property: G-FZSM0VGVC4
+
