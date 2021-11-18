@@ -1,6 +1,9 @@
 SEQUENCE 1
 ==========
 
+*Les deux premières activités ont été extraites et adaptées du livre NSI 1re - Ed. Bordas*
+
+
 ## ACTIVITE 1 - Constructions élémentaires & langages
 
 Adam a lu que dans la grande majorité des langages de programmation on retrouve les mêmes constructions élémentaires. 

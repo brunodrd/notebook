@@ -20,8 +20,3 @@ Il suffit de faire un clic droit sur *Ce PC*, puis *propriétés* et *gestionnai
 ![periph](img/gestperiph.png)
 
 Dans le cas de la capture, on note **COM5**. Attention, cette valeur n'est pas garantie sur les autres machines.
-
-
-```python
-
-```

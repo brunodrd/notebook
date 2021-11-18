@@ -89,7 +89,7 @@ En cas de succès de l'ouverture d'une session, on se retrouve avec un interpré
 
 Lorsque la connexion échoue, on pourra en première intention, effectuer certaines vérifications:
     
-* le microcontrôleur est-il bien connécté à un port USB ? une led bleue sur le boitier permet de le confirmer;
+* le microcontrôleur est-il bien connecté à un port USB ? une led bleue sur le boitier permet de le confirmer;
 * un programme en exécution sur le microcontrôleur n'est-il pas pas dans une boucle infinie ou en attente d'entrée ? une série de ++ctrl+c++ peut être la solution ...
 * peut-on récupérer un interpréteur avec un *RESET* ( ++ctrl+d++ ) ?
 
@@ -98,11 +98,6 @@ Lorsque la connexion échoue, on pourra en première intention, effectuer certai
 
 Une fois la connexion établie avec le microcontrôleur, on peut commencer des tests dans l'interpréteur micropython.   
 
-Si les tests sont concluants, on peut écrire un *script* dans la fenêtre d'édition de Thonny et le transférer dans un dossier sur la carte. L'espace est très limité sur la carte (128 Mo), on y déposera **que** des scripts. De plus, on **évitera à tout prix de déposer ses fichiers n'importe où**! On pourra créer, par exemple, un dossier `Perso` dans le dossier `Samples` pour le stockage de ses fichiers personnels.  
+Si les tests sont concluants, on peut écrire un *script* dans la fenêtre d'édition de Thonny et l'enregistrer dans un dossier sur la carte. L'espace est très limité sur la carte (128 Mo), on y déposera **que** des scripts. De plus, on **évitera à tout prix de déposer ses fichiers n'importe où**! On pourra créer, par exemple, un dossier `Perso` dans le dossier `Samples` pour le stockage de ses fichiers personnels.  
 
 ![th8](img/thonny_8.png)
-
-
-```python
-
-```

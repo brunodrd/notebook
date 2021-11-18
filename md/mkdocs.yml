@@ -28,6 +28,11 @@ nav:
             - "TP 1": NSI1/S4/S4TP1.md
             - "Exercices": NSI1/S4/S4E1.md
             - "En résumé": NSI1/S4/S4R1.md
+        - "Seq. 5 Représentation de données":
+            - "COURS 1": NSI1/S5/S5C1.md
+            - "COURS 2": NSI1/S5/S5C2.md
+            - "ACTIVITE 1": NSI1/S5/S5A1.md
+            - "EXERCICES E1": NSI1/S5/S5E1.md
             
     - "NSITerm":
         - "Chap. 1 Récursivité":
@@ -58,6 +63,9 @@ nav:
             - "Exercices 2": NSITerm/SD/C7E2.md
         - "Chap. 8 BDD":
             - "Activité de découverte": NSITerm/BDD/C8A1.md
+            - "Cours 1: Le modèle relationnel": NSITerm/BDD/C8C1.md
+            - "Cours 2: Structure des bases de données relationnelles": NSITerm/BDD/C8C2.md
+            - "Exercices: Schémas relationnels": NSITerm/BDD/C8E1.md
         - "Evaluations":            
             - "EP1":
                 - "Sujet": NSITerm/eval/21_NSI_08_modif.pdf 
@@ -71,6 +79,8 @@ nav:
         - "Mode de fonctionnement": PC/mode_fonctionnement.md
         - "Hello World": PC/HelloWorld.md
         - "Mise en oeuvre": PC/capteurs.md
+        - "Conclusion": PC/conclusion.md
+        - "Annexe: graphiques avec matplotlib": PC/matplotlib.md
     - "Liens divers":
         - "Videos": perso/videos.md
         - "Textes": perso/textes.md

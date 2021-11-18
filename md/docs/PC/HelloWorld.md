@@ -35,8 +35,3 @@ Les instructions `ma_led.on()` et `ma_led.off()` permettent de placer un niveau 
 Afin de sauvegarder son travail, on peut naturellement enregistrer son code dans un fichier sur la carte (avec les recommandations déjà faites sur le lieu de stockage).  
 
 ![th10](img/thonny_10.png)
-
-
-```python
-
-```

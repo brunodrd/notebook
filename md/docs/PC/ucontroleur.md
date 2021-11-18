@@ -1,17 +1,20 @@
-Découvrir le Plug'Uino Py
-=====================
+Plan : Découvrir le Plug'Uino Py
+===============================
 
-1. C'est quoi un microcontroleur ?
+1. Qu'est qu'un microcontroleur ?
 2. Présentation du boitier Plug'Uino Py
 2. Les modes de fonctionnements
     * Mode interface
     * Mode REPL
 3. Le "Hello world" du Plug Py
-    * Découvrir l'interpréteur micropython - mode REPL
-    * Transférer un programme depuis le PC
+    * Montage
+    * Utilisation d'un terminal REPL
+    * Écriture d'un script
 4. Mise en oeuvre de capteurs
     * Capteur de température
     * Capteur US
+    * Capteur de pression
+5. Annexe: tracer un graphique avec matplotlib
 
 ## Qu'est-ce qu'un microcontrôleur?
 

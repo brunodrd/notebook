@@ -5,3 +5,7 @@ Liens consultés et appréciés
 * [The history of programming - Devcon 2016](https://www.youtube.com/watch?v=Tr9E_vzKRVo)
 * [Heaps and heap sort](https://www.youtube.com/watch?v=B7hVxCmfPtM)
 * [All your ducks in a row - Brandon Rhodes, PyCon 2014](https://www.youtube.com/watch?v=fYlnfvKVDoM&t=360s)
+* [Chaine de l'EPFL](https://www.youtube.com/c/Wandida)
+* [Chaine LearnLinuxtv](https://www.youtube.com/c/LearnLinuxtv)
+* [Chaine de Derek Molloy](https://www.youtube.com/c/DerekMolloyatDCU)
+
