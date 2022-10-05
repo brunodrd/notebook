@@ -1,14 +1,25 @@
 site_name: NSI
-site_description: "Support de cours"
+site_description: "Support de cours activité TP en spé NSI"
+site_author: "Bruno DARID"
 copyright: "CC-BY-NC-SA 4.0"
 docs_dir: docs
 nav:
     - "Home": index.md    
     - "NSI1":
         - "Seq.1 Intoduction à la programmation":
-            - "COURS & ACTIVITES": NSI1/S1/sequence1.md
+            - "ACTIVITE 1": NSI1/S1/S1A1.md
+            - "ACTIVITE 2": NSI1/S1/S1A2.md
+            - "COURS 1": NSI1/S1/S1C1.md
+            - "COURS 2": NSI1/S1/S1C2.md
+            - "EXERCICES 1": NSI1/S1/S1E1.md
+            - "TP 1": NSI1/S1/TP01.pdf
         - "Seq.2 Systèmes d'exploitation":
-            - "COURS & ACTIVITES": NSI1/S2/sequence2.md
+            - "ACTIVITÉ 1": NSI1/S2/S2A1.md
+            - "ACTIVITÉ 2": NSI1/S2/S2A2.md
+            - "ACTIVITÉ 3": NSI1/S2/S2A3.md
+            - "ACTIVITÉ 4": NSI1/S2/S2A4.md
+            - "COURS": NSI1/S2/S2C1.md
+            - "EXERCICES 1": NSI1/S2/S2E1.md
         - "Seq.3 Codage des nombres":
             - "ACTIVITE 1": NSI1/S3/S3A1.md
             - "ACTIVITE 2": NSI1/S3/S3A2.md
@@ -31,20 +42,40 @@ nav:
         - "Seq. 5 Représentation de données":
             - "COURS 1": NSI1/S5/S5C1.md
             - "COURS 2": NSI1/S5/S5C2.md
+            - "COURS 3": NSI1/S5/S5C3.md
+            - "COURS 3a": NSI1/S5/S5C3a.md
+            - "COURS 3b": NSI1/S5/S5C3b.md
             - "ACTIVITE 1": NSI1/S5/S5A1.md
             - "EXERCICES E1": NSI1/S5/S5E1.md
-            
+            - "EXERCICES E2": NSI1/S5/S5E2.md
+            - "EXERCICES E3": NSI1/S5/S5E3.md
+            - "COURS 4": NSI1/S5/S5C4.md
+            - "COURS 5": NSI1/S5/S5C5.md
+            - "COURS 6": NSI1/S5/S5C6.md
+            - "EXERCICES E4": NSI1/S5/S5E4.md
+        - "Seq. 6 IHM sur le web":
+            - "COURS 1": NSI1/S6/S6C1.md
+            - "ACTIVITÉ 1": NSI1/S6/S6A1.md
+            - "EXERCICES E2": NSI1/S6/S6E2.md
+            - "COURS 2": NSI1/S6/S6C2.md
+            - "COURS 3": NSI1/S6/S6C3.md
+        - "Seq. 7 Algorithmique":
+            - "COURS 1": NSI1/S7/S7C1.md
+            - "COURS 2": NSI1/S7/S7C2.md           
     - "NSITerm":
         - "Chap. 1 Récursivité":
-            - "Cours": NSITerm/LP2/Recursivite.md
+            - "Cours": NSITerm/LP2/C1C1.md
             - "Exercices": NSITerm/LP2/C1E1.md
-            - "TD": NSITerm/LP2/C1TD1Ex.md
-        - "Chap. 2 Prog. modulaire":
-            - "Actvité 1": NSITerm/LP2/C4A1.md
-            - "Actvité 2": NSITerm/LP2/C4A2.md
-        - "Chap. 3 Mise au point - Bugs":
+            - "Vers le bac": NSITerm/LP2/C1TD1.md
+            - "Correction": NSITerm/LP2/C1TD1C.md
+        - "Chap. 2 Mise au point - Bugs":
             - "Cours": NSITerm/LP2/C5C1.md
-            - "Exercices": NSITerm/LP2/C5E1.md
+            - "Exercices 1": NSITerm/LP2/C5E1.md
+            - "Exercices 2": NSITerm/LP2/C2E2.md
+        - "Chap. 3 Prog. modulaire":
+            - "TP": NSITerm/LP2/C3TP1.md
+            - "Actvité": NSITerm/LP2/C3A1.md
+#            - "Actvité 2": NSITerm/LP2/C4A2.md        
         - "Chap. 4 SDD1 Pile & File":
             - "Cours": NSITerm/SD/C2C1.md
             - "Exercices": NSITerm/SD/C2E1.md
@@ -65,16 +96,40 @@ nav:
             - "Activité de découverte": NSITerm/BDD/C8A1.md
             - "Cours 1: Le modèle relationnel": NSITerm/BDD/C8C1.md
             - "Cours 2: Structure des bases de données relationnelles": NSITerm/BDD/C8C2.md
-            - "Exercices: Schémas relationnels": NSITerm/BDD/C8E1.md
+            - "Cours 3: Langage SQL": NSITerm/BDD/C8C3.md
+            - "TP 1": NSITerm/BDD/C8TP1.md
+            - "TP 2": NSITerm/BDD/C8TP2.md 
+            - "Exercices 1: Schémas relationnels": NSITerm/BDD/C8E1.md
+            - "Correction Ex. 1": NSITerm/BDD/CorC8.md
+            - "Correction TP1": NSITerm/BDD/C8TP1Cor.md
+            - "Correction TP2": NSITerm/BDD/C8TP2C.md
+        - "Chap. 9 Protocoles de routage":
+            - "Cours 1: Routage": NSITerm/ARSE/C9C1.md
+            - "Exercices 1": NSITerm/ARSE/c11e.md
+        - "Chap. 10 Gestion des processus":
+            - "Cours 1": NSITerm/ARSE/C10C1.md
+            - "TP 1": NSITerm/ARSE/C10TP1.md
+        - "Chap. 11 Algorithmique - diviser pour régner":
+            - "Cours 1: Paradigme diviser pour régner": NSITerm/ALGO/C11C1.md
+            - "TD 1: Un exemple d'application (difficile)": NSITerm/ALGO/C11TD1.md
+            - "TP 1: Préambule au tri fusion": NSITerm/ALGO/C11TP1.md
+            - "TP 2: Tourner R2D2": NSITerm/ALGO/C11TP2.md
+        - "Chap. 12 Les graphes":
+            - "Cours 1: Introduction": NSITerm/SD/C12C1.md
+            - "Exercices E1": NSITerm/SD/C12E1.md
+            - "Corrigé E1": NSITerm/SD/C12E1P.md
+            - "Activité de découverte": NSITerm/ALGO/C12A1.md
         - "Evaluations":            
-            - "EP1":
+            - "Exempple EP (2021)":
                 - "Sujet": NSITerm/eval/21_NSI_08_modif.pdf 
                 - "Corrigé": NSITerm/eval/NSI_21_sujet_8.md                               
                 - "Corrigé version pdf": NSITerm/eval/NSI_21_sujet_8.pdf
-            - "EP3":
-                - "Corrigé": NSITerm/eval/sujet_20.md
+        - "Epreuve pratique": 
+            - "Accueil": NSITerm/EP/EP_accueil.md
+            - "Entrainement n°1": NSITerm/EP/EP_1_2023.md
+        
     - "Physique":
-        - "Micro controleur": PC/ucontroleur.md
+        - "Micro contrôleur": PC/ucontroleur.md
         - "Connexions": PC/connexion.md
         - "Mode de fonctionnement": PC/mode_fonctionnement.md
         - "Hello World": PC/HelloWorld.md
@@ -88,9 +143,7 @@ nav:
 theme:
     name: material
     custom_dir: overrides
-    analytics:
-        gtag: G-FZSM0VGVC4
-    font: false                     # RGPD ; pas de fonte Google
+    font: false
     language: fr                    # français
     palette:                        # Palettes de couleurs jour/nuit
       - media: "(prefers-color-scheme: light)"
@@ -151,24 +204,18 @@ markdown_extensions:
         permalink: ⚓︎
         toc_depth: 2
 
-plugins:
-  - search
-  - macros
-  
-
 extra_javascript:
   - javascripts/config.js
-  - javascripts/gtag.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
   - https://unpkg.com/mermaid@8.9.2/dist/mermaid.min.js
   - javascripts/mermaid.js
 
 extra_css:
-  - stylesheets/extra.css
+    - stylesheets/extra.css       
+#  - stylesheets/extra.css  property: G-FZSM0VGVC4
 
-extra:
-  analytics:
-    provider: google
-    property: G-FZSM0VGVC4
-
+plugins:
+  - search
+  - macros
+  - pdf-with-js

@@ -5,9 +5,13 @@ Il est coutume de commencer l'apprentissage d'un nouveau langage de programmatio
 
 ## Le montage
 
-On connecte une led sur la broche `D2` du boîtier (connecteur SIL) en série avec une résistance de $220\ \Omega$.  
+On connecte une led sur la broche `D2` du boîtier en série avec une résistance de $220\ \Omega$, en utilisant les connecteurs SIL (*solution 1*) ou SATA associés à la platine de câblage (*solution 2*) de Sciencethic.  
 
-![montage1](img/montage1.png)
+**Solution 1**  
+![montage1](img/montage1.png)  
+
+**Solution 2**  
+![montage2](img/board_3.png)
 
 ## Dialogue via un terminal REPL
 
@@ -22,7 +26,7 @@ On peut le faire avec `PuTTY` ou `Thonny`
 
 L'essentiel des fonctionnalités de la carte réside dans le module `ppy`. Par conséquent, on importera presque systématiquement ce module avec `import ppy` ou uniquement quelques fonctions ou classes par `from ppy import ...`.
 
-Avant de pouvoir utiliser une broche du microcontroleur en sortie ou en entrée, il faut créer un *objet* de la classe `Pin` qui référence cette broche. La syntaxe est la suivante:
+Avant de pouvoir utiliser une broche du microcontrôleur en sortie ou en entrée, il faut créer un *objet* de la classe `Pin` qui référence cette broche. La syntaxe est la suivante:
 
 ```python
 ma_led = Pin('D2', Pin.OUT)

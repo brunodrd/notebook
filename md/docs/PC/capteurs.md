@@ -92,7 +92,7 @@ La fonction `main` ne pose pas de problème de compréhension particulier.
 
 L'implémentation Micropython de la carte ne permet pas le tracé $R=f(\theta)$, la librairie `matplotlib` n'étant pas présente! A titre indicatif, on peut récupérer le fichier *csv* avec `Thonny` (*clic droit sur le fichier, puis téléchargement*).  
 
-![th12](img/th_12.png)
+![th12](img/th_12_1.png)
 
 Avec l'installation python de l'ordinateur ou sur [basthon](https://nsiboisdo.bdrd.fr/basthon/), on peut facilement tracer $R=f(\theta)$, par exemple avec le code suivant:  
 

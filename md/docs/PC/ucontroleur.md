@@ -3,7 +3,7 @@ Plan : Découvrir le Plug'Uino Py
 
 1. Qu'est qu'un microcontroleur ?
 2. Présentation du boitier Plug'Uino Py
-2. Les modes de fonctionnements
+3. Les modes de fonctionnements
     * Mode interface
     * Mode REPL
 3. Le "Hello world" du Plug Py
@@ -14,7 +14,8 @@ Plan : Découvrir le Plug'Uino Py
     * Capteur de température
     * Capteur US
     * Capteur de pression
-5. Annexe: tracer un graphique avec matplotlib
+5. Conclusion
+6. Annexe: tracer un graphique avec matplotlib
 
 ## Qu'est-ce qu'un microcontrôleur?
 
@@ -46,7 +47,10 @@ L'accès aux bornes d'entrée/sortie se fait par le biais de connecteurs SATA en
 * *BLEU*: données analogiques;
 * *JAUNE*: utilisation du bus $I^2C$.
 
-La connexion peut se faire également grâce aux connecteurs SIL. *Remarque*: les connecteurs SATA et SIL de même nom sont connectés entre eux.  
+La connexion peut se faire également grâce aux connecteurs SIL.  
+
+!!! tip "Remarque"
+    Les connecteurs SATA et SIL de même nom sont connectés entre eux.  
 
 ![connexions](img/connexions.png)
 

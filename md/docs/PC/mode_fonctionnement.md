@@ -1,11 +1,13 @@
 Les modes fonctionnements du Plug'Py
-================================
+====================================
+
+[Lien vers les scripts de cette présentation](https://nsiboisdo.bdrd.fr/PC/doc/Perso.zip)
 
 ## Le mode interface
 
 La carte dispose d'un premier mode de fonctionnement appelé *Interface* dans lequel l'essentiel des opérations se déroule côté ordinateur.  
 
-Tester le programme d'exemple livré avec le boitier `Temperature simple-PlugUnio-Py.py`.  
+On peut tester ce mode avec un des programmes livrés avec le boitier (exemple `Temperature simple-PlugUnio-Py.py`).  
 
 **Avis personnel**  
 
@@ -13,7 +15,7 @@ Ce mode de fonctionnement bien que séduisant souffre de gros défauts:
 
 * obligation d'avoir python installé sur l'ordinateur hôte;
 * obligation d'avoir la librairie `libPlugPy` dans le même dossier que le programme à exécuter;
-* syntaxe du code python utilisé très lourde lorsqu'on exécute une instruction côté microcontrôleur;
+* syntaxe du code python utilisé très lourde lorsqu'on exécute une instruction destinée au microcontrôleur;
 * utilisation de structures avancées du langage Python (`Exception`, contexte `try / except`, etc.) inutiles à ce stade d'apprentissage. 
 
 ## Le mode REPL
@@ -24,10 +26,11 @@ C'est le mode privilégié durant cette initiation. Il s'agit:
 * de *dialoguer* directement (sans librairie) avec le microcontrôleur, en python;
 * finalement d'écrire ses scripts sur son ordinateur avec son éditeur de code préféré (*par exemple* **Thonny**).
 
-Pour entrer dans ce mode, procéder selon la description ci-dessous. Sur la carte Plug'Uino Py:  
+Pour entrer dans ce mode, procéder selon la description ci-dessous.  
+Sur la carte Plug'Uino Py:  
 
 * appuyer et maintenir le bouton **USR** puis appuyer brièvement sur le bouton **RST** (*en haut à gauche*);
-* dans le menu de l'écran du Plug' Py, choisir **Safe Mode** avec le bouton **USR** (Appui court) puis valider par un appui long sur **USR**.  
+* dans le menu de l'écran du Plug' Py, choisir **Safe Mode** avec le bouton **USR** (appui court) puis valider par un appui long sur **USR**.  
 
 ![ecran](img/ecran_carte.png)
 
@@ -37,7 +40,7 @@ Plusieurs applications permettent d'atteindre cet objectif.
 
 #### PuTTY
 
-Il s'agit d'une application légère, libre de droits. Un raccourci `Putty Reseau` est disponible sur les ordinateurs de la salle A104.  
+Il s'agit d'une application légère, libre de droits, distribué sous licence [MIT](https://fr.wikipedia.org/wiki/Licence_MIT). Un raccourci `Putty Reseau` est disponible sur les ordinateurs de la salle A104.  
 
 ![putty](img/putty.png)
 
@@ -52,11 +55,11 @@ On **PEUT** adapter la police utilisée, notamment sa taille ;) car la police pa
 
 ![font](img/puttychfont.png)
 
-On peut valider en cliquant sur `Open`
+On valide en cliquant sur `Open`
 
 #### EDI Thonny
 
-Thonny est un environnement de développement intégré, très prisé par les débutants. Il est multiplateforme et peut être téléchargé à cette [adresse](https://thonny.org/).  
+Thonny est un environnement de développement intégré, très prisé par les débutants. C'est un logiciel libre, multiplateforme et qui peut être téléchargé à cette [adresse](https://thonny.org/).  
 Après avoir démarré la carte en mode **Safe Mode**, il peut être utile, **la première fois**, de paramétrer Thonny pour l'utilisation avec le Plug'Uino Py. Il s'agira d'indiquer au système le *bon interpréteur python* à utiliser.  
 
 ![th1](img/thonny_01.png)
@@ -91,7 +94,7 @@ Lorsque la connexion échoue, on pourra en première intention, effectuer certai
     
 * le microcontrôleur est-il bien connecté à un port USB ? une led bleue sur le boitier permet de le confirmer;
 * un programme en exécution sur le microcontrôleur n'est-il pas pas dans une boucle infinie ou en attente d'entrée ? une série de ++ctrl+c++ peut être la solution ...
-* peut-on récupérer un interpréteur avec un *RESET* ( ++ctrl+d++ ) ?
+* peut-on récupérer un interpréteur en effectuant un *RESET* avec la séquence de touches ++ctrl+d++ ou le bouton STOP de Thonny?
 
 
 ## Proposition de procédure de développement

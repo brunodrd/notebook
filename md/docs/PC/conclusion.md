@@ -4,7 +4,8 @@ Conclusions
 ## Points forts du kit
 
 Le boitier incorporant la carte ainsi que les connecteurs sata semblent robustes et devraient résister aux chocs. Les capteurs sont bien protégés si on exclus la faiblesse entre le capteur de pression et la seringue.  
-La présence de l'interpréteur Micropython est également un avantage. L'élève retrouve un langage utilisé dans d'autres disciplines. 
+Par ailleurs, les entrées sont protégées électriquement et l'utilisateur n'a pas à se soucier de conversions de niveau logique 3V-5V.  
+Enfin, la présence de l'interpréteur Micropython est également un avantage. L'élève retrouve un langage utilisé dans d'autres disciplines. 
 
 ## Points faibles
 
